@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    background-color: #0011ff;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+    
+.imagen{
+    width:600px;
+}
+
+h1 {
+color: aqua;
+}
+
+div{
+    margin-top: 17px;
+}
+
+.section-style{
+   margin-right: 26px;
+    margin-left: 27px; 
+     background-color: white;
+}
+
+.menu{
+    position:absolute;
+    top: 10px;
+    right: 30px;
+    
+}
+
+.menu{
+    list-style: none;
+    font-family: helvetica;
+    color: aqua;
+}
+.menu li{
+    margin-right: 10px;
+    float: right;
+    cursor: pointer;
+    border: 10px solid;
+    padding: 5px;
+}
+.titulo_yo{
+    border-bottom:8px solid black;
+    padding-bottom: 10px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.pasatiempo{
+    background-color: yellow;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px;
+}
